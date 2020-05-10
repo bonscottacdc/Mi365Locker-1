@@ -1,7 +1,10 @@
 
 # XiaomiM365Locker
-[@RaniXCH](https://twitter.com/raniXCH)
+[@decodef](https://github.com/decodef)
 
+#Import
+To run this software you need to launch bluetooth and geo-location.
+After launch the software you need to allow to get your geo-location.
 
 The app allows you to search for Xiaomi scooters lock & unlock the devices.
 This security concerned was put to the attention of Xiaomi and disclosed responsibly.
